@@ -17,7 +17,7 @@ The script can be used with the Chrome extension:
 - Create a new rule.
 - Give it a name, e.g. Microsoft careers application on Screen.
 - Add the URL pattern: `https://microsoft.eightfold.ai/careers/applications*`
-- Copy the script from the `addNewScreenFilter.js` file and paste into the rule's code.
+- Copy the script from the [addNewScreenFilter.js](addNewScreenFilter.js) file and paste into the rule's code.
 - Save it.
 - Reload the applications page to see the result.
 
