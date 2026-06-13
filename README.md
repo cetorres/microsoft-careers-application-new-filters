@@ -1,10 +1,13 @@
 # Microsoft careers page - Application on Screen filter
 
+[![Microsoft Careers](https://custom-icon-badges.demolab.com/badge/Microsoft%20Careers-2771D8?logo=microsoft&logoColor=white)](https://microsoft.eightfold.ai/careers)
+&nbsp; [![User JavaScript and CSS](https://img.shields.io/badge/Chrome%20Extension-User%20JavaScript%20and%20CSS-F7DF1E?logo=chromewebstore&logoColor=000)](https://chromewebstore.google.com/detail/nbhcbdghjpllgmfilhnhkllmkecfmpld?utm_source=item-share-cb)
+
 Adds a new filter for applications on Screen status to the candidate's [Microsoft careers applications page](https://microsoft.eightfold.ai/careers/applications?domain=microsoft.com).
 
 ## Installation
 
-The script can be used with a Chrome extension like:
+The script can be used with the Chrome extension:
 
 - [User JavaScript and CSS](https://chromewebstore.google.com/detail/nbhcbdghjpllgmfilhnhkllmkecfmpld?utm_source=item-share-cb) (version 3.1.2 or above).
 
