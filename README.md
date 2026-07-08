@@ -18,6 +18,7 @@ The script can be used with the Chrome extension:
 - Give it a name, e.g. Microsoft careers application new filters.
 - Add the URL patterns: `https://apply.careers.microsoft.com/careers/applications*,https://microsoft.eightfold.ai/careers/applications*`
 - Copy the script from the [addNewFilters.js](addNewFilters.js) file and paste into the rule's code.
+- There are new filters already created: Screen and Interview. Add more as you need.
 - Save it.
 - Reload the applications page to see the result.
 
