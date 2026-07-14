@@ -54,11 +54,10 @@ const loadElements = () => {
 
 const runAfterSpinner = () => {
 	filters.forEach((filter) => {
-		filter.total = [...document.querySelectorAll('div[class*="status-"]')].filter(el => el.textContent.trim() === filter.name).length;
+		filter.total = [...document.querySelectorAll('div[class*="status-"]')].filter(el => el.textContent.trim().toLowerCase().includes(filter.name.toLowerCase())).length;
 		filter.badgeLoader.remove();
 		addBadge(filter);
 	});
-	
 }
 
 const addNewButton = (filter) => {
